@@ -1,5 +1,5 @@
 ---
-name: 'USER STORY : --title--'
+name: 'USER STORY :'
 about: This is the default user story template.
 title: ''
 labels: ''
