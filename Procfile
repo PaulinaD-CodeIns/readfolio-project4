@@ -1,0 +1,1 @@
+web: gunicorn readfolio_project.wsgi --log-file -
