@@ -9,5 +9,8 @@ node_modules/
 cloudinary_python.txt
 .envenv/
 .env
-staticfiles/
+/staticfiles/
 *.pyc
+readfolio/env/
+*.pyc
+db.sqlite3x
